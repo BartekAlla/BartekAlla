@@ -8,7 +8,7 @@ I'm Bartłomiej, a passionate backend web development enthusiast currently pursu
 
 <li>💻 Exploring backend development with Java & Spring </li>
 
-<li>📚 Learning new technologies and improving my coding skills daily </li>
+<li>📚 Learning new technologies and improving my coding skills </li>
 
 <li>🔧 Passionate about building efficient, scalable, and maintainable applications </li>
 
