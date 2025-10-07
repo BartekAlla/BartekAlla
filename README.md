@@ -47,8 +47,6 @@ Tools & Platforms
 
 💼 LinkedIn: www.linkedin.com/in/bartłomiej-allaburda
 
-Looking forward to collaborating on exciting projects and sharing knowledge with the community! 🚀
-
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
